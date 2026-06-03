@@ -1,1 +1,1 @@
-# Flipkart-ML-Project
+# Amazon-ML-Project
